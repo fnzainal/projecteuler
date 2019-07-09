@@ -1,5 +1,3 @@
-# Code solve of problem 1
-
 ```java 
 public class SolveProblem1 {
 	public static void main(String[] args){
