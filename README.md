@@ -1,2 +1,2 @@
 # projecteuler
-Solve code for problem at projecteuler.net
+Solver code for problem at projecteuler.net
