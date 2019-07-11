@@ -9,7 +9,7 @@ if you use other operating system please [google](https://google.com) it.
 
 # Run the code
 1. create empty file with name **SolveProblem6.java**, and open it with text editor
-2. copy the code at [test.md](./test.md) and paste inside SolveProblem1.java
+2. copy the code at [test.md](./test.md) and paste inside SolveProblem6.java
 3. open terminal and navigate to directory of **SolveProblem6.java**. then compile it with type:
 ```
     javac SolveProblem6.java
